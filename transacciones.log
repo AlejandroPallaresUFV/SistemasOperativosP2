@@ -1,0 +1,23 @@
+Cuenta origen: 1004 | Cuenta destino: 1001 | Monto transferido: 100.00
+Cuenta destino: 1004 | Monto ingresado: 10000.00
+Cuenta origen: 1004 | Cuenta destino: 1002 | Monto transferido: 5000.00
+Cuenta origen: 1004 | Cuenta destino: 1002 | Monto transferido: 5000.00
+ALERTA: Transferencias repetidas desde 1004 a 1002
+Cuenta destino: 1004 | Monto ingresado: 10000.00
+Cuenta origen: 1004 | Monto retirado: 5000.00
+Cuenta origen: 1004 | Monto retirado: 5000.00
+ALERTA: Retiros sospechosos consecutivos en cuenta 1004
+Cuenta origen: 1001 | Cuenta destino: 1002 | Monto transferido: 100.00
+Cuenta destino: 1002 | Monto ingresado: 5000.00
+Cuenta destino: 1001 | Monto ingresado: 15000.00
+Cuenta destino: 1001 | Monto ingresado: 15000.00
+Cuenta origen: 1001 | Monto retirado: 5000.00
+Cuenta origen: 1001 | Monto retirado: 5000.00
+ALERTA: Retiros sospechosos consecutivos en cuenta 1001
+Cuenta destino: 1002 | Monto ingresado: 3000.00
+Cuenta destino: 1002 | Monto ingresado: 15000.00
+Cuenta origen: 1002 | Cuenta destino: 1001 | Monto transferido: 5000.00
+Cuenta origen: 1002 | Cuenta destino: 1001 | Monto transferido: 5000.00
+ALERTA: Transferencias repetidas desde 1002 a 1001
+ALERTA: Retiros sospechosos consecutivos en cuenta 1002
+ALERTA: Retiros sospechosos consecutivos en cuenta 1004
